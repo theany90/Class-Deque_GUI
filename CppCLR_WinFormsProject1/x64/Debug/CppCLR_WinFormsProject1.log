@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  array_control.cpp
+C:\Users\samet\Documents\Visual Studio 2022\Projects\CppCLR_WinFormsProject1\array_control.cpp(7,20): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  charqueue.cpp
+  deque_control.cpp
+  init_array.cpp
+  init_deque.cpp
+  intqueue.cpp
+  Kod Üretiliyor...
+C:\Users\samet\Documents\Visual Studio 2022\Projects\CppCLR_WinFormsProject1\array_control.cpp(29): warning C4715: 'Array::operator[]': tüm denetim yolları değer döndürmez
+C:\Users\samet\Documents\Visual Studio 2022\Projects\CppCLR_WinFormsProject1\Form1.cpp(80): warning C4715: 'CppCLRWinFormsProject::Form1::printLog': tüm denetim yolları değer döndürmez
+  array_control.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  CppCLR_WinFormsProject1.vcxproj -> C:\Users\samet\Documents\Visual Studio 2022\Projects\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.exe
